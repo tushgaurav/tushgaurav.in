@@ -1,6 +1,6 @@
 ---
 title: "Beginners' Guide to Tor"
-date: 2023-12-17T18:00:00+05:30
+date: 2023-11-10T18:00:00+05:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["tech", "internet"]
@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Learn the basics and internal working of the Tor"
+description: "Learn the basics and the internal working of the Tor Network"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -30,7 +30,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/tushgaurav/tushgaurav.in/tree/main/"
+    URL: ""
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
