@@ -24,10 +24,10 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: "images/cover.png" # image path/url
+    alt: "Overview of my Gnome Desktop" # alt text
+    caption: "Some of my favourite Gnome extensions." # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
     URL: ""
@@ -162,3 +162,4 @@ You pin your most important pastes, search between your clipboard history, delet
 #
 
 These were some of my favourite extensions. If you have any extension that you want to add to this list please suggest changes. 
+

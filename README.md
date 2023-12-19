@@ -9,6 +9,8 @@ This repository contains the source code for tushgaurav.in, a personal website b
 - **Framework**: Hugo
 - **Languages**: HTML, CSS, JavaScript
 - **Design**: PaperMod Theme
+- **Deployment**: GitHub Pages
+- **Comments**: [Cactus Comments](https://cactus.chat/)
 
 ## Local Development
 Make sure that you have Hugo installed already.

@@ -35,6 +35,9 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - name: Chat
+          url: chat/
+          weight: 0
 
 outputs:
   home:
@@ -48,7 +51,7 @@ params:
   author: Tushar Gaurav
   # author: ["Me", "You"] # multiple authors
 
-  defaultTheme: auto
+  defaultTheme: dark
   # disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
@@ -117,10 +120,10 @@ params:
     apple_touch_icon: "/apple-touch-icon.png"
     # safari_pinned_tab: "<link / abs url>"
 
-  # cover:
-  #     hidden: true # hide everywhere but not in structured data
-  #     hiddenInList: true # hide on list pages and home
-  #     hiddenInSingle: true # hide on single page
+  cover:
+      hidden: false # hide everywhere but not in structured data
+      hiddenInList: true # hide on list pages and home
+      hiddenInSingle: false # hide on single page
 
   # fuseOpts:
   #     isCaseSensitive: false
