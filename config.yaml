@@ -79,7 +79,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Giggles in the Gigabytes"
+    Title: "Hello World, Meet My Mistakes"
     Content: "
       I'm a software developer and graphic designer focused on clean, effective solutions.
       My passion lies in creating seamless user experiences and visually appealing designs.
@@ -121,9 +121,9 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   cover:
-      hidden: false # hide everywhere but not in structured data
-      hiddenInList: true # hide on list pages and home
-      hiddenInSingle: false # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   # fuseOpts:
   #     isCaseSensitive: false
