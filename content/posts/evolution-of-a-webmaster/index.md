@@ -1,6 +1,6 @@
 ---
 title: "Evolution of a Webmaster: My Web Dev Journey"
-date: 2024-02-10T00:50:00+0530
+date: 2024-02-10T00:50:00+05:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["web dev", "programming", "career"]
