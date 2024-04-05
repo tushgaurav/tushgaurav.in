@@ -1,5 +1,5 @@
 ---
-title: "Beginners' Guide to Tor"
+title: "Beginner's Guide to Tor"
 date: 2023-11-10T18:00:00+05:30
 # weight: 1
 # aliases: ["/first"]
