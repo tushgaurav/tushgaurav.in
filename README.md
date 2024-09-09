@@ -17,6 +17,7 @@ Make sure that you have Hugo installed already.
 To run this project locally:
 1. Clone the repository: `git clone git@github.com:tushgaurav/tushgaurav.in.git`
 2. Navigate to the project directory: `cd tushgaurav.in`
+3. Pull the submodules: `git submodule update --init --recursive`, this will pull the PaperMod theme.
 3. Run Hugo server: `hugo server`
 
 ## Contributions
