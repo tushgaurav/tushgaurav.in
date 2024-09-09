@@ -89,14 +89,28 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/tushgaurav"
-    - name: email
-      url: "mailto:hello@tushgaurav.in"
+    - name: mastodon
+      url: "https://mstdn.social/@tushgaurav"
     - name: linkedin
       url: "https://www.linkedin.com/in/tushgaurav/"
+    - name: x
+      url: "https://twitter.com/tushgaurav"
+    - name: email
+      url: "mailto:hello@tushgaurav.in"
     - name: behance
       url: "https://www.behance.net/tushgaurav"
     - name: Rss
       url: "index.xml"
+    - name: goodreads
+      url: "http://goodreads.com/tushgaurav"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/12286541/tushargaurav"
+    - name: codepen
+      url: "https://codepen.io/tushgaurav"
+    - name: dev
+      url: "https://dev.to/tushgaurav"
+    - name: instagram
+      url: "https://www.instagram.com/tushgaurav/"
 
   editPost:
     URL: "https://github.com/tushgaurav/tushgaurav.in/tree/main/content/"
