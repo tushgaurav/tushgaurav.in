@@ -171,7 +171,7 @@ privacy:
   twitter:
     disabled: false
     enableDNT: true
-    simple: true
+    simple: false
 
   instagram:
     disabled: false
